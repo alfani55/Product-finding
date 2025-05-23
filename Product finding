@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Dell Inspiron",
+      "description": "Laptop gaming dengan prosesor Intel Core i7",
+      "category": "Elektronik",
+      "price": 8000000,
+      "features": ["Intel Core i7", "NVIDIA GeForce GTX 1660 Ti", "RAM 16GB"]
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Samsung Galaxy S22",
+      "description": "Smartphone flagship dengan kamera 50MP",
+      "category": "Elektronik",
+      "price": 12000000,
+      "features": ["Kamera 50MP", "RAM 8GB", "Prosesor Qualcomm Snapdragon 888"]
+    },
+    {
+      "id": 3,
+      "name": "Sepatu Olahraga Nike",
+      "description": "Sepatu olahraga dengan desain stylish",
+      "category": "Fashion",
+      "price": 1500000,
+      "features": ["Desain stylish", "Bahan kulit", "Sol empuk"]
+    }
+  ]
+}
